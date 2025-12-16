@@ -123,4 +123,4 @@
     - the number of generations run so far  
     print an error, but **do not exit**.
 
-![Updated Structure Plan](images/UML_Diagram.pdf)
+![Updated Structure Plan](images/UML_Diagram.jpg)
