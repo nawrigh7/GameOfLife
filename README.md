@@ -124,3 +124,16 @@
     print an error, but **do not exit**.
 
 ![Updated Structure Plan](images/UML_Diagram.png)
+
+Suggested fixes:
+<img width="818" height="802" alt="image" src="https://github.com/user-attachments/assets/6bf359bd-c456-48db-af8c-343495b845ef" />
+<img width="816" height="749" alt="image" src="https://github.com/user-attachments/assets/c13ad78e-b064-4b28-9714-3c5466e21e2c" />
+<img width="910" height="698" alt="image" src="https://github.com/user-attachments/assets/26b3ac33-8488-4c4b-ba89-c7ffdbcdf68a" />
+<img width="905" height="589" alt="image" src="https://github.com/user-attachments/assets/504f0dcf-29d0-47cd-a2e5-2923e4971fd4" />
+<img width="899" height="377" alt="image" src="https://github.com/user-attachments/assets/9865f53f-fb9d-43f1-967e-9ec8ef2d8b92" />
+
+
+
+
+
+
