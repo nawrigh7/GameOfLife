@@ -1,4 +1,4 @@
-# CT301 FA25 - HW6 - State and Rollback
+# Build v6 - State and Rollback
 
 **Nicholas Wright**
 
