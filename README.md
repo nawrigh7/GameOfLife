@@ -46,13 +46,12 @@
 
 ## Implementation Notes
 - **Wraparound formula**  
-  Provided in class: `index - 1 + width % width` (same for height)
+  `index - 1 + width % width` (same for height)
 
 - **CLA parsing**  
   ```c
   while ((c = getopt(argc, argv, "<flags>")) != -1)
   ```
-  Provided in slides
   - In the `<flags>` section:
     - `-<flag>` means the flag must start with `-`
     - `:` means there is a required argument after the flag.
@@ -99,7 +98,7 @@
 - `-s` — 3-state Game of Life  
 - `-w` — wraparound  
 
-  - If either `-s` or `-w` are not set, default to HW3 logic.
+  - If either `-s` or `-w` are not set, default to v3 logic.
   - If **both** `-s` and `-w` are set, print an error message and return `1`.
 
 ---
